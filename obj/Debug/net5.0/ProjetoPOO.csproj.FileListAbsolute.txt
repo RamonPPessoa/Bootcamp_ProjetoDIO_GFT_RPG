@@ -1,0 +1,16 @@
+C:\Users\Ramon\Documents\Cursos_DIO\DIO_C#\BootcampGFT\ProjetoPOO\bin\Debug\net5.0\ProjetoPOO.exe
+C:\Users\Ramon\Documents\Cursos_DIO\DIO_C#\BootcampGFT\ProjetoPOO\bin\Debug\net5.0\ProjetoPOO.deps.json
+C:\Users\Ramon\Documents\Cursos_DIO\DIO_C#\BootcampGFT\ProjetoPOO\bin\Debug\net5.0\ProjetoPOO.runtimeconfig.json
+C:\Users\Ramon\Documents\Cursos_DIO\DIO_C#\BootcampGFT\ProjetoPOO\bin\Debug\net5.0\ProjetoPOO.runtimeconfig.dev.json
+C:\Users\Ramon\Documents\Cursos_DIO\DIO_C#\BootcampGFT\ProjetoPOO\bin\Debug\net5.0\ProjetoPOO.dll
+C:\Users\Ramon\Documents\Cursos_DIO\DIO_C#\BootcampGFT\ProjetoPOO\bin\Debug\net5.0\ref\ProjetoPOO.dll
+C:\Users\Ramon\Documents\Cursos_DIO\DIO_C#\BootcampGFT\ProjetoPOO\bin\Debug\net5.0\ProjetoPOO.pdb
+C:\Users\Ramon\Documents\Cursos_DIO\DIO_C#\BootcampGFT\ProjetoPOO\obj\Debug\net5.0\ProjetoPOO.csproj.AssemblyReference.cache
+C:\Users\Ramon\Documents\Cursos_DIO\DIO_C#\BootcampGFT\ProjetoPOO\obj\Debug\net5.0\ProjetoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramon\Documents\Cursos_DIO\DIO_C#\BootcampGFT\ProjetoPOO\obj\Debug\net5.0\ProjetoPOO.AssemblyInfoInputs.cache
+C:\Users\Ramon\Documents\Cursos_DIO\DIO_C#\BootcampGFT\ProjetoPOO\obj\Debug\net5.0\ProjetoPOO.AssemblyInfo.cs
+C:\Users\Ramon\Documents\Cursos_DIO\DIO_C#\BootcampGFT\ProjetoPOO\obj\Debug\net5.0\ProjetoPOO.csproj.CoreCompileInputs.cache
+C:\Users\Ramon\Documents\Cursos_DIO\DIO_C#\BootcampGFT\ProjetoPOO\obj\Debug\net5.0\ProjetoPOO.dll
+C:\Users\Ramon\Documents\Cursos_DIO\DIO_C#\BootcampGFT\ProjetoPOO\obj\Debug\net5.0\ref\ProjetoPOO.dll
+C:\Users\Ramon\Documents\Cursos_DIO\DIO_C#\BootcampGFT\ProjetoPOO\obj\Debug\net5.0\ProjetoPOO.pdb
+C:\Users\Ramon\Documents\Cursos_DIO\DIO_C#\BootcampGFT\ProjetoPOO\obj\Debug\net5.0\ProjetoPOO.genruntimeconfig.cache
